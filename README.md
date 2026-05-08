@@ -6,7 +6,7 @@ Jogo da forca no terminal feito em Python.
 
 ```python forca.py```
 
-## O que o projeto pratica
+## Conceitos utilizados
 
 - Listas
 - Loops (while)
